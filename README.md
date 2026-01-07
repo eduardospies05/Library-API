@@ -21,3 +21,8 @@ Este projeto gerencia um sistema de biblioteca, controlando o acervo de livros, 
 2. **Atualização do Schema**: Execute o comando abaixo no terminal para criar as tabelas:
    ```bash
    dotnet ef database update
+   ```
+3. **Rodar**: Execute estes comandos
+   ```bash
+   dotnet build
+   dotnet run
